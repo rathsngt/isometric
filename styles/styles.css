@@ -158,3 +158,8 @@ body {
   td {
     font-weight: 100 !important;
   }
+
+
+  .dev-black {
+    color: black !important;
+  }
